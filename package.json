@@ -4,6 +4,8 @@
   "description": "A simple Node.js + Express API that accepts a JSON array of numbers via a POST request and returns their sum.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
