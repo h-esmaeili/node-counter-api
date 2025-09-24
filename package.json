@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/h-esmaeili/node-counter-api/issues"
   },
-  "homepage": "https://github.com/h-esmaeili/node-counter-api#readme"
+  "homepage": "https://github.com/h-esmaeili/node-counter-api#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
