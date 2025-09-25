@@ -1,0 +1,26 @@
+{
+  "name": "counter-api",
+  "version": "1.0.0",
+  "description": "A simple Node.js + Express API that accepts a JSON array of numbers via a POST request and returns their sum.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h-esmaeili/node-counter-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h-esmaeili/node-counter-api/issues"
+  },
+  "homepage": "https://github.com/h-esmaeili/node-counter-api#readme",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0"
+  }
+}
